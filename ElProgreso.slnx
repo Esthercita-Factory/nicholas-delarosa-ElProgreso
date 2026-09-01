@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="ElProgreso/ElProgreso.csproj" />
+</Solution>
