@@ -16,7 +16,17 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7254ef-0134-494d-a670-891d9f1d8bff" name="Changes" comment="" />
+    <list default="true" id="4d7254ef-0134-494d-a670-891d9f1d8bff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ElProgreso/bin/Debug/net10.0/ElProgreso.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/bin/Debug/net10.0/ElProgreso.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/bin/Debug/net10.0/ElProgreso.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/bin/Debug/net10.0/ElProgreso.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ref/ElProgreso.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ref/ElProgreso.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/refint/ElProgreso.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/refint/ElProgreso.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,18 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nicholas-delarosa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nicholas-delarosa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Esthercita-Factory/nicholas-delarosa-ElProgreso.git",
-    "accountId": "8d97730d-3af0-4858-9a34-d32ac3c304fc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Esthercita-Factory/nicholas-delarosa-ElProgreso.git&quot;,
+    &quot;accountId&quot;: &quot;8d97730d-3af0-4858-9a34-d32ac3c304fc&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ElProgreso/Models/Member.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/Models/Movement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -57,39 +67,39 @@
     <setting file="file://$PROJECT_DIR$/ElProgreso/UI/ManagementReportsMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/UI/TellerConsole.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Ih2pUtyPd9q3gWTovMkds2x91j" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.ElProgreso.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/cohorte5/Música/Nicholas - C#/POOp1/POOp1.slnx",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.ElProgreso.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/cohorte5/Música/Nicholas - C#/POOp1/POOp1.slnx&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.ElProgreso">
     <configuration name="ElProgreso" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />

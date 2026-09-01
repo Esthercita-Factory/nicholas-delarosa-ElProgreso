@@ -12,3 +12,4 @@
 /home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.pdb
 /home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.genruntimeconfig.cache
 /home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ref/ElProgreso.dll
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.sourcelink.json

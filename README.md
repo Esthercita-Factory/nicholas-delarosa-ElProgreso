@@ -30,7 +30,7 @@ management pulls a few reports.
 ## Project structure
 
 ```
-PruebaPrueba/
+ElProgreso/
   Models/         Member, Movement, MovementType - the account rules live
                    inside Member (RegisterDeposit/RegisterWithdrawal), so
                    there is exactly one place that can change a balance.
@@ -40,8 +40,6 @@ PruebaPrueba/
   UI/              The teller menu (TellerConsole, ManagementReportsMenu)
                    and small console I/O helpers.
   Program.cs       Wires everything together and starts the menu.
-
-PruebaPrueba.Tests/  xUnit tests for the account rules and the services.
 ```
 
 Layered by folder rather than by project: `Models` has no dependency on
@@ -57,24 +55,17 @@ PDF: [ElProgreso-Class-Diagram.drawio.pdf](docs/ElProgreso-Class-Diagram.drawio.
 - .NET 10 / C# 14
 - `HttpClient` for the TRM lookup (no extra package - the framework's own
   JSON extensions were enough)
-- xUnit for tests
 
 ## Running it
 
 ```bash
-dotnet run --project PruebaPrueba
+dotnet run --project ElProgreso
 ```
 
 Data lives in memory for the run - closing the app clears it. That was
 enough for this exercise's scope; a real deployment would swap
 `InMemoryMemberRepository` for a database-backed one behind the same
 `IMemberRepository` interface.
-
-Tests:
-
-```bash
-dotnet test
-```
 
 ## Notes on a few decisions
 
