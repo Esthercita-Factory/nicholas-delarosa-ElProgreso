@@ -1,0 +1,14 @@
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/bin/Debug/net10.0/ElProgreso
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/bin/Debug/net10.0/ElProgreso.deps.json
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/bin/Debug/net10.0/ElProgreso.runtimeconfig.json
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/bin/Debug/net10.0/ElProgreso.dll
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/bin/Debug/net10.0/ElProgreso.pdb
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfoInputs.cache
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfo.cs
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.csproj.CoreCompileInputs.cache
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.dll
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/refint/ElProgreso.dll
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.pdb
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ElProgreso.genruntimeconfig.cache
+/home/cohorte5/RiderProjects/ElProgreso/ElProgreso/obj/Debug/net10.0/ref/ElProgreso.dll
