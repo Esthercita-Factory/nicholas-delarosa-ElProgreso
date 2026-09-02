@@ -21,11 +21,13 @@
       <change beforePath="$PROJECT_DIR$/ElProgreso/bin/Debug/net10.0/ElProgreso.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/bin/Debug/net10.0/ElProgreso.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ElProgreso.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ref/ElProgreso.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/ref/ElProgreso.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/refint/ElProgreso.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/Debug/net10.0/refint/ElProgreso.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/ElProgreso.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/ElProgreso.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElProgreso/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ElProgreso/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +46,14 @@
     &quot;assignee&quot;: &quot;nicholas-delarosa&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Esthercita-Factory/nicholas-delarosa-ElProgreso.git&quot;,
-    &quot;accountId&quot;: &quot;8d97730d-3af0-4858-9a34-d32ac3c304fc&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Esthercita-Factory/nicholas-delarosa-ElProgreso.git",
+    "accountId": "8d97730d-3af0-4858-9a34-d32ac3c304fc"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ElProgreso/Models/Member.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ElProgreso/Models/Member.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/Models/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/Models/MovementType.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -61,7 +63,6 @@
     <setting file="file://$PROJECT_DIR$/ElProgreso/Services/MemberService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/Services/MovementService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/Services/ReportService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ElProgreso/UI/ConsoleFormat.UI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/UI/ConsoleFormat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/UI/ConsoleReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElProgreso/UI/ManagementReportsMenu.cs" root0="FORCE_HIGHLIGHTING" />
