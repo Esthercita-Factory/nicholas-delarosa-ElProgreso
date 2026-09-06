@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="aaGUsmOYMc_jP6GZU39B">
+    <mxGraphModel dx="905" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1080" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-9" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.002;exitY=0.325;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;exitPerimeter=0;" target="L3J6sXVWVJmQeaoBXFBo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-22" connectable="0" parent="L3J6sXVWVJmQeaoBXFBo-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1-6" vertex="1">
+          <mxGeometry relative="1" x="0.7283" y="-2" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-12" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" target="L3J6sXVWVJmQeaoBXFBo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-24" connectable="0" parent="L3J6sXVWVJmQeaoBXFBo-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="7-8" vertex="1">
+          <mxGeometry relative="1" x="0.3897" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-15" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endSize=8;endArrow=block;endFill=0;" target="L3J6sXVWVJmQeaoBXFBo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-25" connectable="0" parent="L3J6sXVWVJmQeaoBXFBo-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="9-10" vertex="1">
+          <mxGeometry relative="1" x="0.0152" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-17" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endSize=8;endArrow=block;endFill=0;" target="L3J6sXVWVJmQeaoBXFBo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-26" connectable="0" parent="L3J6sXVWVJmQeaoBXFBo-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="11" vertex="1">
+          <mxGeometry relative="1" x="0.1273" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-19" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" target="L3J6sXVWVJmQeaoBXFBo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-27" connectable="0" parent="L3J6sXVWVJmQeaoBXFBo-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="12" vertex="1">
+          <mxGeometry relative="1" x="0.5666" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-20" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" target="L3J6sXVWVJmQeaoBXFBo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-29" connectable="0" parent="L3J6sXVWVJmQeaoBXFBo-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0. Salir" vertex="1">
+          <mxGeometry relative="1" x="0.6677" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Pantalla principal&lt;/div&gt;&lt;div&gt;(menú numérico 0-12)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="515" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-10" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.167;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;entryPerimeter=0;" target="L3J6sXVWVJmQeaoBXFBo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;2. Registro / búsqueda / actualización&lt;/div&gt;&lt;div&gt;de asociados (opciones 1-6)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="15" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-11" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" target="L3J6sXVWVJmQeaoBXFBo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;3. Consulta de saldo&lt;/div&gt;&lt;div&gt;COP / USD (opciones 7-8)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="225" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-14" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" target="L3J6sXVWVJmQeaoBXFBo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;4. Consignación / retiro&lt;/div&gt;&lt;div&gt;(opciones 9-10)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="425" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-16" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" target="L3J6sXVWVJmQeaoBXFBo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;5. Historial de movimientos&lt;/div&gt;&lt;div&gt;(opción 11)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="625" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-18" edge="1" parent="1" source="L3J6sXVWVJmQeaoBXFBo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" target="L3J6sXVWVJmQeaoBXFBo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-28" connectable="0" parent="L3J6sXVWVJmQeaoBXFBo-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0. Volver" vertex="1">
+          <mxGeometry relative="1" x="-0.4249" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;6. Submenú de informes&lt;/div&gt;&lt;div&gt;(opción 12)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="825" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin del programa" vertex="1">
+          <mxGeometry height="40" width="160" x="1025" y="1870" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Prototipo de solución de software (wireframes)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="330" x="40" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Norma:&lt;/b&gt; 220501095 — Evidencia 3&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;El sistema es una aplicación de consola, así que su &quot;interfaz&quot; es texto por diseño — no hay botones ni ventanas que maquetar en Figma. Por eso los wireframes de este anexo son mockups textuales de cada pantalla tal como aparecerá en la terminal: representan fielmente la navegación y el diseño de la información que verá la cajera, que es el objetivo real de un wireframe (mostrar diseño de interfaces, navegación y experiencia de usuario antes de programar).&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="1120" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1. Pantalla principal (menú)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;Cooperativa Financiera El Progreso&lt;/div&gt;&lt;div&gt;Sistema de ventanilla para asociados&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Que necesita hacer?&lt;/div&gt;&lt;div&gt;&amp;nbsp;1. Registrar un nuevo asociado&lt;/div&gt;&lt;div&gt;&amp;nbsp;2. Listar todos los asociados&lt;/div&gt;&lt;div&gt;&amp;nbsp;3. Buscar asociado por documento&lt;/div&gt;&lt;div&gt;&amp;nbsp;4. Buscar asociado por nombre&lt;/div&gt;&lt;div&gt;&amp;nbsp;5. Actualizar datos de un asociado&lt;/div&gt;&lt;div&gt;&amp;nbsp;6. Eliminar un asociado&lt;/div&gt;&lt;div&gt;&amp;nbsp;7. Consultar saldo&lt;/div&gt;&lt;div&gt;&amp;nbsp;8. Consultar saldo en dolares (TRM)&lt;/div&gt;&lt;div&gt;&amp;nbsp;9. Registrar consignacion&lt;/div&gt;&lt;div&gt;10. Registrar retiro&lt;/div&gt;&lt;div&gt;11. Ver movimientos de un asociado&lt;/div&gt;&lt;div&gt;12. Informes de gerencia&lt;/div&gt;&lt;div&gt;&amp;nbsp;0. Salir&lt;/div&gt;&lt;div&gt;Seleccione una opcion: _&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="400" x="40" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2. Gestión de asociados — Registro (formulario)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="330" x="40" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;Numero de documento: _ (&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;si está vacío o repetido → &quot;Este dato es obligatorio,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;intente de nuevo.&quot; / &quot;Ya existe un asociado con...&quot;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Nombre completo: _&lt;/div&gt;&lt;div&gt;Telefono (Enter para omitir): _&lt;/div&gt;&lt;div&gt;Direccion (Enter para omitir): _&lt;/div&gt;&lt;div&gt;Asociado registrado. Juan Pérez queda con la cuenta en $ 0.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="710" x="40" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3. Gestión de asociados — Ficha / detalle (buscar por documento)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="450" x="40" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;Numero de documento: 0123456789&lt;/div&gt;&lt;div&gt;Documento: 0123456789&lt;/div&gt;&lt;div&gt;Nombre: Juan Pérez&lt;/div&gt;&lt;div&gt;Telefono: (sin registrar)&lt;/div&gt;&lt;div&gt;Direccion: (sin registrar)&lt;/div&gt;&lt;div&gt;Asociado desde: 05/09/2026&lt;/div&gt;&lt;div&gt;Saldo actual: $ 400.000&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="225" x="40" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;4. Gestión de movimientos — Consignación / retiro&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="355" x="40" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;Numero de documento: 0123456789&lt;/div&gt;&lt;div&gt;Valor a retirar: 2000000&lt;/div&gt;&lt;div&gt;Movimiento rechazado: Saldo insuficiente: el retiro de 2.000.000 más la comisión de manejo de efectivo de 8.000 deja el saldo en negativo.&amp;nbsp;(el saldo NO cambió)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="870" x="40" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;5. Historial de movimientos&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="40" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;Numero de documento: 0123456789&lt;/div&gt;&lt;div&gt;2 movimiento(s) de Juan Pérez:&lt;/div&gt;&lt;div&gt;&amp;nbsp; 05/09/2026 14:58&amp;nbsp; Consignacion&amp;nbsp; $ 400.000&amp;nbsp; saldo: $ 400.000&lt;/div&gt;&lt;div&gt;&amp;nbsp; 05/09/2026 15:01&amp;nbsp; Retiro&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $ 100.000&amp;nbsp; saldo: $ 300.000&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="355" x="40" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;6. Submenú — Informes de gerencia&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="40" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;Informes de gerencia:&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;¿Cuánta plata tenemos?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. ¿Quiénes son mis mejores asociados?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. ¿Quiénes están dormidos?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. ¿Cómo nos fue en un periodo?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. ¿Cuáles fueron los movimientos más grandes?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6. ¿Quién me está moviendo la caja?&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0. Volver al menú principal&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;Seleccione una opcion: _&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="270" x="40" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Navegación entre pantallas&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="40" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="L3J6sXVWVJmQeaoBXFBo-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;La experiencia de usuario se diseñó deliberadamente cerrada y a prueba de errores de tipeo: cada pantalla vuelve a preguntar en vez de aceptar entradas fuera de rango (&lt;b&gt;ConsoleReader.ReadMenuOption&lt;/b&gt; no deja avanzar hasta recibir un número válido), y todo error de negocio se muestra como una frase en español clara, nunca como un stack trace.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="1120" x="40" y="1960" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
